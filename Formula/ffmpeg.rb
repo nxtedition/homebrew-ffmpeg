@@ -1,9 +1,9 @@
 class Ffmpeg < Formula
-  desc "Play, record, convert, and stream audio and video"
+  desc "nxtedition FFmpeg"
   homepage "https://ffmpeg.org/"
   license "GPL-2.0-or-later"
-  revision 4
-  head "https://github.com/FFmpeg/FFmpeg.git", branch: "master"
+  revision 1
+  head "https://github.com/nxtedition/FFmpeg.git", branch: "master"
 
   stable do
     url "https://ffmpeg.org/releases/ffmpeg-7.1.tar.xz"
