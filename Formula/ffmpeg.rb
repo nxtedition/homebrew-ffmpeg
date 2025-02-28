@@ -96,7 +96,7 @@ class Ffmpeg < Formula
   depends_on "libgsm" => :optional
   depends_on "libmodplug" => :optional
   depends_on "libopenmpt" => :optional
-  depends_on "libplacebo" => :optional
+  depends_on "nxtedition/libplacebo/libplacebo" => :optional
   depends_on "librist" => :optional
   depends_on "librsvg" => :optional
   depends_on "libsoxr" => :optional
