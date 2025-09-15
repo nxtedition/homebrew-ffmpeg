@@ -78,7 +78,7 @@ class Ffmpeg < Formula
   depends_on "snappy"
   depends_on "theora"
   depends_on "x264"
-  depends_on "nxtedition/x265/x265"
+  depends_on "nxtedition/libplacebo/x265"
   depends_on "xz"
 
   depends_on "aribb24" => :optional
